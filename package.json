@@ -1,0 +1,10 @@
+{
+  "name": "hiraganaquiz",
+  "version": "1.0.3",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "bin": "src/index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
